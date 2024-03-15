@@ -1,2 +1,7 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+// Swiso57
+// Swiso57.swift
+// Created by joshdotpoo
+
+struct Swiso57 {
+    
+}
